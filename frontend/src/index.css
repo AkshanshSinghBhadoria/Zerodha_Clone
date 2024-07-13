@@ -12,10 +12,25 @@ code {
     monospace;
 }
 
+/* Navbar */
 .nav-link{
   margin-left: 40px;
 }
 
 .nav-link:hover {
+  color: #3FA2F6;
+}
+
+/* Footer */
+.foot-link {
+  text-decoration: none;
+}
+
+.foot-icons {
+  margin-right: 15px;
+  font-size: 20px;
+}
+
+.foot-icons :hover {
   color: #3FA2F6;
 }
