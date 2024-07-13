@@ -13,6 +13,11 @@ code {
 }
 
 /* Navbar */
+
+.navbar {
+  background-color: white;
+}
+
 .nav-link{
   margin-left: 40px;
 }

@@ -2,7 +2,7 @@ import React from "react";
 
 function Navbar() {
   return (
-      <nav class="navbar navbar-expand-lg border-bottom">
+      <nav class="navbar sticky-top navbar-expand-lg border-bottom">
         <div class="container p-2">
           <a class="navbar-brand " href="#">
             <img src="media/images/logo.svg" alt="logo" style={{width: "25%"}}></img>
