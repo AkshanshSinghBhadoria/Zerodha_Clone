@@ -2,7 +2,13 @@ import React from 'react';
 
 function Pricing() {
     return (
-        <h1>Pricing</h1>
+        <div className='container'>
+            <div className='row'>
+                <div className='col-4'></div>
+                <div className='col-2'></div>
+                <div className='col-6'></div>
+            </div>
+        </div>
     );
 }
 
