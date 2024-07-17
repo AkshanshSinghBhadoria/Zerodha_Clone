@@ -23,7 +23,7 @@ code {
 }
 
 .nav-link:hover {
-  color: #3FA2F6;
+  color: #387ed1;
 }
 
 /* Footer */
@@ -37,5 +37,24 @@ code {
 }
 
 .foot-icons :hover {
-  color: #3FA2F6;
+  color: #387ed1;
+}
+
+#supportHero {
+  background-color: #387ed1;
+  color: white;
+}
+
+#supportWrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 150px;
+}
+
+#supportHero input {
+  padding: 15px 50px;
+  width: 100%;
+  font-size: 18px;
+  border-radius: 5px;
+  border: none;
 }
