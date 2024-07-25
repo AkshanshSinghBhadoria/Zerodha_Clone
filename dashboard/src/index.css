@@ -275,6 +275,7 @@ code {
 }
 
 .menus li {
+  margin-top: 30px;
   display: inline-block;
   margin-right: 30px;
   text-decoration: none;
@@ -320,6 +321,7 @@ hr {
 }
 
 .profile .username {
+  margin-top: 20px;
   font-size: 0.8rem;
   font-weight: 300;
 }
